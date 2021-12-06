@@ -21,7 +21,7 @@
 
 [<img src="https://telegra.ph/file/07aa50bd3ab3a1442f1ed.jpg">](https://t.me/NaraXmusic) 
   
-#### JOIN YA KE SAYONARA SUPPORT!!
+#### JOIN YA KE KITARO SUPPORT!!
 
 <a href="https://t.me/NaraXmusic"><img src="https://img.shields.io/badge/Channel%20SAYONARA%20SUPPORT-red.svg?style=for-the-badge&logo=Telegram"></a>
 <a href="https://t.me/Sayonara_Story"><img src="https://img.shields.io/badge/Join-Sayonara%20Story-purple.svg?style=for-the-badge&logo=Telegram"></a>
@@ -30,12 +30,12 @@
 ### AMBIL STRING DI BAWAH INI:
 
 ##
-[![SAYONARA-USERBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@Randi356/StringSession-1#main.py)
+[![KITARO-USERBOT-STRING](https://replit.com/badge/github/@ramadhani892/RAM-UBOT)](https://replit.com/@Randi356/StringSession-1#main.py)
 ##
   
   # Heroku
   
-  <a href="https://heroku.com/deploy?template=https://github.com/Krisnadiwangga/Sayonara-Userbot.git"><img src="https://img.shields.io/badge/DEPLOY%20SAYONARA%20USERBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
+  <a href="https://heroku.com/deploy?template=https://github.com/Kitaroo/KITARO-USERBOT.git"><img src="https://img.shields.io/badge/DEPLOY%20KITARO%20USERBOT%20DI%20HEROKU-red?style=flat&logo=Heroku" width="325" height="50.100" />
   
 
 <br>
