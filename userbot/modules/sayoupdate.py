@@ -236,9 +236,9 @@ async def upstream(event):
 CMD_HELP.update({
     'update':
     ".update"
-    "\nUsage: Untuk Melihat Pembaruan Terbaru Sayonara-Userbot."
+    "\nUsage: Untuk Melihat Pembaruan Terbaru Kitaro-Userbot."
     "\n\n.update one"
-    "\nUsage: Memperbarui Sayonara-Userbot."
+    "\nUsage: Memperbarui Kitaro-Userbot."
     "\n\n.update all"
-    "\nUsage: Memperbarui Sayonara-Userbot Dengan Cara Deploy Ulang."
+    "\nUsage: Memperbarui Kitaro-Userbot Dengan Cara Deploy Ulang."
 })
