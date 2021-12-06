@@ -96,7 +96,7 @@ async def typewriter(typew):
     sleep(1)
     await typew.edit("`SUCCESSFULLY COMPELED`")
     sleep(1)
-    await typew.edit("`💀SUPPORT` @NARAXMUSIC 💀 CENGHA` @NARAXMUSIC")
+    await typew.edit("`💀SUPPORT` @RUMAHKITARO 💀 CENGHA` @HARIANNSAYAA")
 
 
 
