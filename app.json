@@ -1,7 +1,7 @@
 {
   "name": "KITARO-USERBOT",
   "description": "[KITARO-USERBOT] USERBOT HANYA UNTUK BERSENANG-SENANG DI TELEGRAM.",
-  "logo": "https://telegra.ph/file/07aa50bd3ab3a1442f1ed.jpg",
+  "logo": "https://telegra.ph/file/28d9f4c90f60f0b7190d3.jpg",
   "keywords": [
     "telegram",
     "userbot",
@@ -24,7 +24,7 @@
     },
     "ALIVE_LOGO": {
       "description": "BUAT ALIVE LOGO MU SENDIRI.",
-      "value": "https://telegra.ph/file/07aa50bd3ab3a1442f1ed.jpg",
+      "value": "https://telegra.ph/file/28d9f4c90f60f0b7190d3.jpg",
       "required": true
      },
      "STRING_SESSION": {
