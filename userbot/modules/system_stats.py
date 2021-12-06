@@ -314,9 +314,9 @@ async def redis(alive):
         f"┣  `Branch   :` {UPSTREAM_REPO_BRANCH} \n"
         f"┣  `Bot Ver  :` {BOT_VER} \n"
         f"┣  `Modules  :` {len(modules)} Modules \n"
-        f"┣  `GitHub   :` [Sayonara](https://github.com/kitaroo/KITARO-USERBOT) \n"
+        f"┣  `GitHub   :` [kitaro](https://github.com/kitaroo/KITARO-USERBOT) \n"
         f"┣  `Support  :` [Groups](https://t.me/rumahkitaro) \n"
-        f"┣  `Owner    :` [Sayonara](https://t.me/kitarohey) \n"
+        f"┣  `Owner    :` [Kitaro](https://t.me/kitarohey) \n"
         f"┗━━━━━━━━━━━━━━━━━━━")
     if ALIVE_LOGO:
         try:
