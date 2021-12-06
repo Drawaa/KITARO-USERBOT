@@ -19,12 +19,12 @@
 
 <p align="center">
 
-[<img src="https://telegra.ph/file/07aa50bd3ab3a1442f1ed.jpg">](https://t.me/NaraXmusic) 
+[<img src="https://telegra.ph/file/28d9f4c90f60f0b7190d3.jpg">](https://t.me/NaraXmusic) 
   
 #### JOIN YA KE KITARO SUPPORT!!
 
-<a href="https://t.me/NaraXmusic"><img src="https://img.shields.io/badge/Channel%20SAYONARA%20SUPPORT-red.svg?style=for-the-badge&logo=Telegram"></a>
-<a href="https://t.me/Sayonara_Story"><img src="https://img.shields.io/badge/Join-Sayonara%20Story-purple.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/NaraXmusic"><img src="https://img.shields.io/badge/Channel%20KITARO%20SUPPORT-red.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/Sayonara_Story"><img src="https://img.shields.io/badge/Join-KITARO%20Story-purple.svg?style=for-the-badge&logo=Telegram"></a>
 
 
 ### AMBIL STRING DI BAWAH INI:
