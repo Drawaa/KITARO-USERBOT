@@ -36,7 +36,7 @@ from userbot.events import register
 # =================== CONSTANT ===================
 PP_TOO_SMOL = "`Gambar Terlalu Kecil`"
 PP_ERROR = "`Gagal Memproses Gambar`"
-NO_ADMIN = "`Maaf Anda Bukan Admin:)`"
+NO_ADMIN = "`Sadar Diri Anda Bukan Admin:)`"
 NO_PERM = "`Maaf Anda Tidak Mempunyai Izin!`"
 NO_SQL = "`Berjalan Pada Mode Non-SQL`"
 
@@ -135,7 +135,7 @@ async def promote(promt):
         pin_messages=True,
     )
 
-    await promt.edit("`Kita tambah admin dulu gess!!`")
+    await promt.edit("`Sabar ya kita tambahin dulu!!`")
     user, rank = await get_user_from_event(promt)
     if not rank:
         rank = "Admin"  # Just in case.
@@ -145,7 +145,7 @@ async def promote(promt):
     # Try to promote if current user is admin or creator
     try:
         await promt.client(EditAdminRequest(promt.chat_id, user.id, new_rights, rank))
-        await promt.edit("`Udah di Promote Jangan Semena mena Ya admin baru!`")
+        await promt.edit("`Nah Udah Jadi Admin Baru Jangan Salh Guna Ya Ngntd!`")
         await sleep(5)
         await promt.delete()
 
