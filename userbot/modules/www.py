@@ -30,16 +30,16 @@ absen = [
     "**Hadir Ganteng** 🥵",
     "**Hadir Bang ** 😎",
     "**Hadir Kak** 😉",
-    "**Hadir Bang Sayo** 😁",
+    "**Hadir Bang Kitaro** 😁",
     "**Hadir Kak Maap Telat** 🥺",
 ]
 
-pacar = [
-    "**Kamu mau jadi pacar aku ga?** 💘",
-    "**Memek mending sama aku** 😎",
-    "**Hai ganteng** 🐷",
+kitaro = [
+    "**Aku padamu** 💘",
+    "**Bg Kitaro ganteng** 😎",
+    "**Kenapa ganteng** 🐷",
     "**Mau ga bang jadi pacar aku?** 😁",
-    "**Mending pc aku bang** 🥺",
+    "**Siapa yang ganggu kau** 🥺",
 ]
 
 
@@ -86,7 +86,7 @@ async def redis(pong):
     uptime = await get_readable_time((time.time() - StartTime))
     start = datetime.now()
     await pong.edit("`Connecting to server...`")
-    await pong.edit("💀")
+    await pong.edit("🤡")
     await asyncio.sleep(3)
     end = datetime.now()
     duration = (end - start).microseconds / 1000
@@ -107,7 +107,7 @@ async def pingme(pong):
     await pong.edit("**█████▒▒▒▒▒**") 
     await pong.edit("**███████▒▒▒**") 
     await pong.edit("**██████████**")
-    await pong.edit("👻")
+    await pong.edit("😡")
     await asyncio.sleep(3)
     end = datetime.now()
     duration = (end - start).microseconds / 1000
