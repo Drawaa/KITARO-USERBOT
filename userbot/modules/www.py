@@ -34,7 +34,7 @@ absen = [
     "**Hadir Kak Maap Telat** 🥺",
 ]
 
-kitaro = [
+pacar = [
     "**Aku padamu** 💘",
     "**Bg Kitaro ganteng** 😎",
     "**Kenapa ganteng** 🐷",
